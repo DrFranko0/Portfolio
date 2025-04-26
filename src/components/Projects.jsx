@@ -13,12 +13,12 @@ export default function Projects() {
               className="w-64 h-40 object-cover rounded-md mb-4"
             />
             <a
-              href="https://example.com/deep-research"
+              href="https://travelit-mpiajugj4vgqmteeztcns2.streamlit.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xl font-bold md:text-2xl mb-2 hover:underline"
             >
-              Deep Research
+              Travel It
             </a>
             <p className="text-sm md:text-base">Stack: Pydanticai, Streamlit, Python</p>
           </div>
@@ -30,7 +30,7 @@ export default function Projects() {
               className="w-64 h-40 object-cover rounded-md mb-4"
             />
             <a
-              href="https://example.com/project-y"
+              href="https://y-gilt-nine.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xl font-bold md:text-2xl mb-2 hover:underline"
@@ -47,12 +47,12 @@ export default function Projects() {
               className="w-64 h-40 object-cover rounded-md mb-4"
             />
             <a
-              href="https://example.com/tune-it"
+              href="https://teachit-p3s8pfpymnohrc5to7syj7.streamlit.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xl font-bold md:text-2xl mb-2 hover:underline"
             >
-              Tune It
+              Teach It
             </a>
             <p className="text-sm md:text-base">Stack: Python, Pydanticai, Streamlit</p>
           </div>
