@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "SixCaps";
+  src: url("/SixCaps-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Staatliches";
+  src: url("/Staatliches-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Londrina";
+  src: url("/LondrinaSolid-Black.ttf") format("truetype");
+}
+
+body {
+  background-color: #000000; /* Black background */
+  color: #ffffff;
+  font-family: "Staatliches", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: none;
+}
+
+.fixed.pointer-events-none {
+  cursor: default;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 20s linear infinite;
+}
