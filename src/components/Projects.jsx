@@ -13,7 +13,7 @@ export default function Projects() {
               className="w-64 h-40 object-cover rounded-md mb-4"
             />
             <a
-              href="https://travelit-mpiajugj4vgqmteeztcns2.streamlit.app"
+              href="https://travelit-nualxhxavaliwsqriqvvxk.streamlit.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xl font-bold md:text-2xl mb-2 hover:underline"
@@ -47,7 +47,7 @@ export default function Projects() {
               className="w-64 h-40 object-cover rounded-md mb-4"
             />
             <a
-              href="https://teachit-p3s8pfpymnohrc5to7syj7.streamlit.app"
+              href="https://teachit-jabsspeaefvry9i3xtz6cd.streamlit.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xl font-bold md:text-2xl mb-2 hover:underline"
